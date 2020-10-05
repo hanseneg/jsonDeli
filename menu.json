@@ -1,3 +1,88 @@
 {
-    
+    "name": "JSON's Deli",
+    "appetizers": [
+        {
+            "name": "chips",
+            "ingredients": ["potatoes", "oil", "salt"],
+            "description": "they're fried potatoes"
+        },
+        {
+            "name": "fries",
+            "ingredients": ["potatoes", "oil", "salt"],
+            "description": "you already know"
+        },
+        {
+            "name": "bread",
+            "ingredients": ["flour", "water", "salt", "yeast"],
+            "description": "its bread, you know what you're getting"
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "roast beef",
+            "ingredients": ["roast beef", "bread", "mayo", "mustard", "lettuce", "tomato"],
+            "description": "its a roast beef sandwich, you ate it growing up"
+        },
+        {
+            "name": "blt",
+            "ingredients": ["bacon", "lettuce", "tomato"],
+            "description": "the ingredients are the description"
+        },
+        {
+            "name": "turkey",
+            "ingredients": ["turkey", "bacon", "avacado"],
+            "description": "the ingredients are the description again"
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "philly cheese steak",
+            "ingredients": ["philadelphia", "cheese", "steak", "bread"],
+            "description": "you know what it is"
+        },
+        {
+            "name": "pulled pork",
+            "ingredients": ["pork pulled from the farm", "bbq sauce"],
+            "description": "you know you want it"
+        },
+        {
+            "name": "fried chicken",
+            "ingredients": ["flour", "chicken", "lettuce", "tomato"],
+            "description": "its pretty good if you're not vegan or vegetarian"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "cc cookie",
+            "ingredients": ["chocolate chip", "cookie"],
+            "description": "everyone in america has eaten at least one"
+        },
+        {
+            "name": "chocolate cake",
+            "ingredients": ["chocolate", "cake"],
+            "description": "its chocalate cake, its for everyone"
+        },
+        {
+            "name": "pie",
+            "ingredients": ["crust", "sugar", "apples or chocolate"],
+            "description": "who invented this and what were they thinking"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "lemonade",
+            "ingredients": ["lemon", "ade", "water", "sugar"],
+            "description": "you buy iy off the side of the road sometimes but you don't know why"
+        },
+        {
+            "name": "water",
+            "ingredients": ["you already know"],
+            "description": "once again, you already know"
+        },
+        {
+            "name": "milk",
+            "ingredients": ["cow teet extract"],
+            "description": "its white and cold"
+        }
+    ]
 }
